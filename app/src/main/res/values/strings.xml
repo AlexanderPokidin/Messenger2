@@ -2,4 +2,5 @@
     <string name="app_name">Messenger</string>
     <string name="send">Send Message</string>
     <string name="title_activity_receive_message">ReceiveMessageActivity</string>
+    <string name="chooser">Send message...</string>
 </resources>
